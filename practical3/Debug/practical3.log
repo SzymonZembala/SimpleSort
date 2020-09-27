@@ -1,0 +1,3 @@
+﻿  practical3.cpp
+O:\programming stuff\uni\algorithm and data structures\wk3\practical3\practical3\practical3.cpp(72,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  practical3.vcxproj -> O:\programming stuff\uni\algorithm and data structures\wk3\practical3\Debug\practical3.exe
